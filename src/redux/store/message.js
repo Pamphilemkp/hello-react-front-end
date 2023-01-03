@@ -1,6 +1,3 @@
-// import React from 'react';
-// import { createSlice, createAsyncThunk } from '@reduxjs/toolkit';
-
 // create action
 const GET_MESSAGE = 'hello-rails-react/message/GET_MESSAGE';
 const url = 'http://localhost:3000/api/v1/greetings';
