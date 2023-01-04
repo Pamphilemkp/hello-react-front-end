@@ -52,9 +52,9 @@ After you're finished please remove all the comments and instructions!
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 hello_react_front_end <a name="about-project"></a>
+# 📖 hello-react-frontend <a name="about-project"></a>
 
-> A React app for UI and gets data from api exposed by Rails app 
+> A React app for UI (frontend) and fetching data to the server through the api exposed by Rails app 
 ## 🛠 Built With <a name="built-with"></a>
 
 ### Tech Stack <a name="tech-stack"></a>
@@ -104,14 +104,14 @@ Clone this repository to your desired folder:
 
 
   - cd my-folder
-  - git clone https://github.com/pamphilemkp/hello-react-front-end.git
+  - git clone https://github.com/pamphilemkp/hello-react-frontend.git
 
 
 ### Install
 
 Install this project with:
 
-  - cd hello-react-front-end
+  - cd hello-react-frontend
   - npm install
 
 
